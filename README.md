@@ -6,7 +6,7 @@
 bikeshare putted in github
 
 ### Description
-Describe what your project is about and what it does
+Project bikeshare to analyze three city data
 
 ### Files used
 Include the files used
