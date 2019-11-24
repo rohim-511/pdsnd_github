@@ -32,7 +32,7 @@ def get_filters():
             break
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
-        day = input('\n Search for the day you want? or all \n')
+        day = input('\n Search for the day you want? sunday to saturday or all \n')
         if day in days:
             break
             
